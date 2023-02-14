@@ -1,0 +1,12 @@
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\bin\Debug\Homework1.xml
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.vbprojAssemblyReference.cache
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.frmNumbers.resources
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.Resources.resources
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.vbproj.GenerateResource.cache
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.vbproj.CoreCompileInputs.cache
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.xml
+C:\Users\guermonprez_kenji\source\repos\Homework1\Homework1\obj\Debug\Homework1.pdb
